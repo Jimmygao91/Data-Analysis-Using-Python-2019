@@ -1,4 +1,4 @@
-<center><p>![纽约的Airbnb价格与浏览量](https://github.com/ShaoZC/Data-Analysis-Using-Python-2019/blob/master/02-Airbnb.svg)纽约的Airbnb价格与浏览量，使用plotly和mapbox完成 </p></center>
+<center><p>![纽约的Airbnb价格与浏览量](https://github.com/ShaoZC/Data-Analysis-Using-Python-2019/blob/master/02-Airbnb.svg)</p></center>
 
 在数据分析中，常用的库有pandas，numpy，以及matplotlib。
 # 1-pandas
