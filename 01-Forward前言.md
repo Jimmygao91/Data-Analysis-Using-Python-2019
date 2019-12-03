@@ -1,3 +1,6 @@
+![Image text](https://raw.githubusercontent.com/ShaoZC/Data-Analysis-Using-Python/master/02-Airbnb data visualization using pandas and plotly.svg)
+纽约的Airbnb价格与浏览量
+
 在数据分析中，常用的库有pandas，numpy，以及matplotlib。
 # 1-pandas
 使用pandas可以将数据整理成**结构化**格式，用于数据挖掘和数据分析，同时也提供数据清洗功能。
