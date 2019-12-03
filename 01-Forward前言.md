@@ -1,4 +1,4 @@
-![Image text](https://raw.githubusercontent.com/ShaoZC/Data-Analysis-Using-Python/master/02-Airbnb data visualization using pandas and plotly.svg)
+![Image text](https://raw.githubusercontent.com/ShaoZC/Data-Analysis-Using-Python/master/02-Airbnb.svg)
 纽约的Airbnb价格与浏览量
 
 在数据分析中，常用的库有pandas，numpy，以及matplotlib。
