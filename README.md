@@ -1,4 +1,6 @@
 ## 在数据分析中，常用的库有pandas，numpy，以及matplotlib。
+
+<img src="https://github.com/ShaoZC/Data-Analysis-Using-Python-2019/blob/master/02-Airbnb.svg" width="50%"><img src="https://github.com/ShaoZC/Data-Analysis-Using-Python-2019/blob/master/02-Airbnb.svg" width="50%">
 ![描述](https://github.com/ShaoZC/Data-Analysis-Using-Python-2019/blob/master/02-Airbnb.svg "可选标题")![描述](https://github.com/ShaoZC/Data-Analysis-Using-Python-2019/blob/master/02-Airbnb.svg "可选标题")
 <center class="half">
     <img src="https://github.com/ShaoZC/Data-Analysis-Using-Python-2019/blob/master/02-Airbnb.svg" width="200"/><img src="https://github.com/ShaoZC/Data-Analysis-Using-Python-2019/blob/master/02-Airbnb.svg" width="200" width="200"/>
