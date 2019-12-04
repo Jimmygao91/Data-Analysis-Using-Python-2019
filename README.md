@@ -2,7 +2,7 @@
 
 <img src="https://github.com/ShaoZC/Data-Analysis-Using-Python-2019/blob/master/02-Airbnb.svg" width="50%"><img src="https://github.com/ShaoZC/Data-Analysis-Using-Python-2019/blob/master/03-change_of_SSEC_in_2019.png" width="50%">
 
-&emsp;纽约的Airbnb价格与浏览量，使用plotly和mapbox完成 &emsp; &emsp; &emsp; &emsp;上证指数2019年变动情况,使用pandas和matplotlib完成
+纽约的Airbnb价格与浏览量，使用plotly和mapbox完成 &emsp; &emsp; &emsp; &emsp;上证指数2019年变动情况,使用pandas和matplotlib完成
 
 # 1-pandas
 使用pandas可以将数据整理成**结构化**格式，用于数据挖掘和数据分析，同时也提供数据清洗功能。
